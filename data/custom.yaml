@@ -1,0 +1,4 @@
+train: D:\\Inside AIML\\Projects\\Industries_safety\\train.txt
+val: D:\\Inside AIML\\Projects\\Industries_safety\\val.txt
+nc: 5
+names: ['Helmet','Goggles','Jacket','Gloves','Footwear']
